@@ -1,0 +1,12 @@
+Hooks: Trechos que executam antes e depois dos testes
+
+before - antes de todos os testes
+beforeEach - antes de cada testes
+after - depois de todos os testes
+afterEach - depois de cada testes
+
+
+cy.viewport
+arquivos de config
+configs por linha de comando
+
