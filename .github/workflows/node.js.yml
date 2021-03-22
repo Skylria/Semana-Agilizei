@@ -33,7 +33,7 @@ jobs:
       uses: cypress-io/github-action@v2.8.2
       with:
         record: true
-        group: 'Semana Agilizei'
+        group: 'Semana-Agilizei'
       env:
         # pass the Dashboard record key as an environment variable
         CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
